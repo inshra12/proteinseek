@@ -35,3 +35,4 @@ experiments/results/
 
 # Large local datasets
 data/large/
+*.egg-info/
